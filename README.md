@@ -2,3 +2,5 @@
 
 [![Nigecat's github stats](https://github-readme-stats.vercel.app/api?username=Nigecat&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigecat&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nigecat&repo=Plexi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
