@@ -10,7 +10,7 @@ Probably writing Rust...
  - [ofin](https://github.com/Nigecat/ofin) - A hotkey scripting language.
  - [Sphinx](https://github.com/Nigecat/Sphinx) - An [egui](https://github.com/emilk/egui) based desktop graphics framework.
 
-### Previously completed projects
+### Previously completed
 
  - [Plexi](https://github.com/Nigecat/Plexi) - An easily extendable [discord](https://discord.com) bot + framework.
  - [AutoEP](https://github.com/RandomExplosion/AutoEP) - A browser plugin to automate [education perfect](https://www.educationperfect.com/).
