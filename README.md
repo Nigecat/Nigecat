@@ -3,7 +3,6 @@ Probably writing Rust...
 ### Actively maintaining
 
  - [obsidian-desmos](https://github.com/Nigecat/obsidian-desmos) - An [obsidian](https://obsidian.md) plugin to render [desmos](https://desmos.com) graphs.
- - [ffmpeg-video-decoder](https://github.com/Nigecat/ffmpeg-video-decoder) - A simple wrapper around [ffmpeg](https://ffmpeg.org) to decode videos.
 
 ### Currently developing
 
