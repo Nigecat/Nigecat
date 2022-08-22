@@ -4,10 +4,14 @@ Probably writing Rust...
 
  - [obsidian-desmos](https://github.com/Nigecat/obsidian-desmos) - An [obsidian](https://obsidian.md) plugin to render [desmos](https://desmos.com) graphs.
 
+<!--
+
 ### Currently developing
 
  - [ofin](https://github.com/Nigecat/ofin) - A hotkey scripting language.
  - [Sphinx](https://github.com/Nigecat/Sphinx) - An [egui](https://github.com/emilk/egui) based desktop graphics framework.
+
+-->
 
 ### Previously completed
 
