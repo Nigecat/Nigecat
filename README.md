@@ -1,8 +1,14 @@
 Probably writing Rust...
 
+Use Obsidian and want to embed graphs? - [obsidian-desmos](https://github.com/Nigecat/obsidian-desmos)
+
+<!--
+
 ### Actively maintaining
 
  - [obsidian-desmos](https://github.com/Nigecat/obsidian-desmos) - An [obsidian](https://obsidian.md) plugin to render [desmos](https://desmos.com) graphs.
+
+-->
 
 <!--
 
@@ -13,10 +19,14 @@ Probably writing Rust...
 
 -->
 
+<!--
+
 ### Previously completed
 
  - [Plexi](https://github.com/Nigecat/Plexi) - An easily extendable [discord](https://discord.com) bot + framework.
  - [AutoEP](https://github.com/RandomExplosion/AutoEP) - A browser plugin to automate [education perfect](https://www.educationperfect.com/).
+
+-->
 
 ### Stats
 
